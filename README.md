@@ -21,7 +21,7 @@ QuoteFlow is a modern, responsive **Random Quote Generator** web application bui
 
 - **HTML5**: Semantic layout elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<dialog>`, `<blockquote>`, `<footer>`).
 - **CSS3**: CSS Custom Properties, Flexbox, CSS Grid, media queries, and hardware-accelerated compositor transitions (`opacity`, `transform`).
-- **Vanilla JavaScript (ES6+)**: Clean modular event listeners, event delegation, safe `textContent` rendering, and browser `localStorage`.
+- **JavaScript (ES6+)**: Clean modular event listeners, event delegation, safe `textContent` rendering, and browser `localStorage`.
 
 ---
 
@@ -44,10 +44,4 @@ quoteflow/
 
 ---
 
-## Deployment to GitHub Pages
 
-1. Create a new public repository on [GitHub](https://github.com).
-2. Upload `index.html`, `style.css`, `script.js`, and `README.md`.
-3. In your repository, go to **Settings** → **Pages**.
-4. Set the source branch to **main** and folder to `/ (root)`.
-5. Click **Save**. Your site will be published at `https://<your-username>.github.io/<repository-name>/`.
